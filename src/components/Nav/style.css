@@ -1,0 +1,10 @@
+.nav-wrapper {
+    background-color: #14b5d0 ;
+}
+#name {
+    font-size: xx-large;
+    font-family: 'Arvo', serif;
+}
+span, i{
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+.page-footer {
+    background-color: #14b5d0 ;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contact{
+    width: 75%;
+    padding: 0px 25px;;
+}
+.contact-left {
+    position: relative;
+    float: left;
+    width: 60%;
+    padding-right: 10px;
+}
+.icons-container-right {
+    
+    position: relative;
+    float: right;
+    width: 40%;
+}
+.icon {
+    position: relative;
+    background-size: 48px;
+	width: 48px;
+    height: 48px;
+    margin-top: 12px;
+	margin-right: 12px;
+    display: inline-block;
+}
+.icon-linkedin{
+	background-image: url("../../assets/otherPics/linkedin-icon.png");
+}
+.icon-github{
+    background-image: url("../../assets/otherPics/GitHub-Mark-64px.png");
+}
+.icon-email{
+    background-image: url("../../assets/otherPics/gmail.png");
+}
+#attributeArea{
+    width: 25%;
+}
